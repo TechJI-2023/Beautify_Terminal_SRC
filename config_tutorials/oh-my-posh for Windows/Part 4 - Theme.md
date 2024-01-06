@@ -9,7 +9,7 @@ Meanwhile, there're lots of themes for you to choose. Use `Get-PoshThemes` comma
 Change the line in `$PROFILE` in Part 3 to:
 
 ```powershell
-oh-my-posh init pwsh --config 'C:/Users/Posh/your_theme.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'your_path/your_theme.omp.json' | Invoke-Expression
 ```
 
 ## bash
@@ -19,3 +19,5 @@ Change the line in `.bashrc` in Part 3 to:
 ```bash
 eval "$(oh-my-posh init bash --config your_path/your_theme.omp.json)"
 ```
+
+**Note: Use `/` instead of `\` in the path.**

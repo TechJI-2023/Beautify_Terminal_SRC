@@ -17,5 +17,5 @@ oh-my-posh init pwsh --config 'C:/Users/Posh/your_theme.omp.json' | Invoke-Expre
 Change the line in `.bashrc` in Part 3 to:
 
 ```bash
-eval "$(oh-my-posh init bash --config ~/your_theme.omp.json)"
+eval "$(oh-my-posh init bash --config your_path/your_theme.omp.json)"
 ```

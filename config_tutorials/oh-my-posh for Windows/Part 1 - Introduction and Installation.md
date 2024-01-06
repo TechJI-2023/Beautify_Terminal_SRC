@@ -21,13 +21,11 @@ Install [Windows Terminal](https://apps.microsoft.com/detail/9N0DX20HK701) or [W
 
 See [Windows Terminal](https://docs.microsoft.com/en-us/windows/terminal/get-started) and [Windows Terminal Preview](https://docs.microsoft.com/en-us/windows/terminal/get-started-preview) for settings.
 
-
-
 ### Install oh-my-posh
 
 Open Powershell and run one of the following commands:
 
-#### Winget
+#### Winget (relatively slow)
 
 ```powershell
 winget install JanDeDobbeleer.OhMyPosh -s winget
@@ -54,3 +52,21 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object
 Then restart Powershell.
 
 **Note: You should config the terminal before you proceed.**
+
+### Update oh-my-posh
+
+```powershell
+winget upgrade JanDeDobbeleer.OhMyPosh -s winget
+```
+
+or
+
+```powershell
+scoop update oh-my-posh
+```
+
+or
+
+```powershell
+Set-ExecutionPolicy Bypass -Scope Process -Force; Invoke-Expression ((New-Object System.Net.WebClient).DownloadString('https://ohmyposh.dev/install.ps1'))
+```

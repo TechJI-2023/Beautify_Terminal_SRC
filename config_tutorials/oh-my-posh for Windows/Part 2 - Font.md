@@ -1,4 +1,4 @@
-# oh-my-posh for Windows
+# oh-my-posh Font
 
 ## Nerd Font
 

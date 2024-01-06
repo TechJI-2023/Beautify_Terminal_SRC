@@ -85,6 +85,7 @@
     - Zplug is a next-generation Zsh plugin manager.
   - zgen [link](https://github.com/tarjoilija/zgen)
     - Zgen is a lightweight and fast plugin manager for Zsh.
+  - for more zsh plugins you can refer to this [link](https://github.com/unixorn/awesome-zsh-plugins)
 
 - windows
   - oh my posh [link](https://github.com/JanDeDobbeleer/oh-my-posh)
@@ -92,7 +93,7 @@
 
 - Package managers for none Linux users
   - macOS
-    - homebrew [link](https://brew.sh)
+    - homebrew [link](https://mirrors.tuna.tsinghua.edu.cn)
       - Homebrew is a free and open-source software package management system that simplifies the installation of software on Apple's macOS operating system and Linux.
     - macports [link](https://www.macports.org)
       - The MacPorts Project is an open-source community initiative to design an easy-to-use system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the macOS operating system.

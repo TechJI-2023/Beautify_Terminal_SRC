@@ -2,7 +2,8 @@
 
 These are all defaults, you can see and change them in settings.
 
-- `CTRL + ,` - Open Settings
+- `CTRL + ,` - Open GUI Settings
+- `CTRL + SHIFT + ,` - Open `settings.json`
 - `CTRL + SHIFT + W` - Close Tab
 - `CTRL + SHIFT + T` - Open New Tab
 - `CTRL + SHIFT + P` - Open Command Palette

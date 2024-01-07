@@ -10,6 +10,30 @@ Then you may want to go further and customize your own terminal. Here are some i
 
 You can go to this [link](https://zhuanlan.zhihu.com/p/435998754) for detailed instructions in Chinese.
 
+## Before You Proceed
+
+If you don't know what you're doing, please backup your `settings.json` file first, or try GUI setting in Windows Terminal. It can be accessed by `Ctrl + ,`, and it can provide all options written in this guide.
+
+![GUI_setting](../pic/GUI_setting.jpg)
+
+**It's more recommended for inexperienced users to use GUI settings.**
+
+## Use AtlasEngine
+
+AtlasEngine is a theme engine for Windows Terminal. It can be used to customize your terminal theme. It's recommended to use it with oh-my-posh.
+
+In `settings.json`, add:
+
+```json
+"profiles":
+{
+    "defaults":
+    {
+        "useAtlasEngine": true
+    }
+}
+```
+
 ## Background Image
 
 Add to your `settings.json`:
@@ -28,7 +52,7 @@ Add to your `settings.json`:
 
 ## Color Scheme
 
-Change it in settings or `settings.json`:
+Change it in `settings.json`:
 
 ```json
 "profiles":
@@ -99,3 +123,9 @@ Add to your `settings.json`:
     }
 }
 ```
+
+## Result
+
+The configuration of @mQzLjP:
+
+![result](../pic/result.jpg)

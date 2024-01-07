@@ -6,14 +6,14 @@
 
 ## Powershell
 
-1. `notepad $PROFILE` (if error, run `New-Item -Path $PROFILE -Type File -Force` or `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine`)
+1. `notepad $PROFILE` (if error, run `New-Item -Path $PROFILE -Type File -Force`)
 2. Add the following line in `$PROFILE`, then SAVE:
 
 ```powershell
 oh-my-posh init pwsh | Invoke-Expression
 ```
 
-3. run `. $PROFILE` to reload (You can ignore the error message, it might mean you have already changed the prompt before.)
+3. run `. $PROFILE` to reload. (You can ignore the error message, it might mean you have already changed the prompt before.) For Windows 11, use the command `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope LocalMachine` if the system forbid to run script.
 
 ## bash
 

@@ -49,6 +49,8 @@ Then follow the instructions. The editor of this tutorial (@mQzLjP) uses `FiraCo
 }
 ```
 
+**See [Windows Terminal Config Guide](../Windows%20Terminal%20Config%20Guide.md) for more options.**
+
 #### VS Code
 
 When using Visual Studio Code, you will need to configure the integrated Terminal to make use of the Nerd Font as well. This can be done by changing the `Integrated: Font Family` value in the Terminal settings (default shortcut: `CTRL + ,` and search for `Integrated: Font Family` or via `Users` -> `Features` -> `Terminal`).

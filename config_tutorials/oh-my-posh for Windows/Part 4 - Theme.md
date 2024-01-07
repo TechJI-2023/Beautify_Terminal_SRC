@@ -4,6 +4,8 @@ You're free to use your own theme, see [Customize](https://ohmyposh.dev/docs/ins
 
 Meanwhile, there're lots of themes for you to choose. Use `Get-PoshThemes` command in Powershell and pick one you like.
 
+![Get-PoshThemes](../../pic/Get-PoshThemes.jpg)
+
 ## Powershell
 
 Change the line in `$PROFILE` in Part 3 to:

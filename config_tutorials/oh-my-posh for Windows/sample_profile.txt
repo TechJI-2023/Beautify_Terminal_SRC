@@ -4,7 +4,7 @@ Set-PSReadLineOption -PredictionSource History
 Set-PSReadLineOption -PredictionViewStyle ListView
 Set-PSReadLineOption -EditMode Windows
  
-Set-PSReadlineKeyHandler -Key Tab -Function Complete # 设置 Tab 键补全
+#Set-PSReadlineKeyHandler -Key Tab -Function Complete # 设置 Tab 键补全
 Set-PSReadLineKeyHandler -Key "Ctrl+d" -Function MenuComplete # 设置 Ctrl+d 为菜单补全和 Intellisense
 Set-PSReadLineKeyHandler -Key "Ctrl+z" -Function Undo # 设置 Ctrl+z 为撤销
 #Set-PSReadLineKeyHandler -Key UpArrow -Function HistorySearchBackward # 设置向上键为后向搜索历史记录
@@ -20,4 +20,16 @@ Set-PSReadLineKeyHandler -Key DownArrow -ScriptBlock {
 
 Import-Module posh-git
 
-oh-my-posh init pwsh | Invoke-Expression #根据tutorial添加你选择的theme
+#highlight
+Set-PSReadLineOption -Colors @{
+ # Use a ConsoleColor enum
+ "Error" = [ConsoleColor]::DarkRed
+
+ "String" = [ConsoleColor]::DarkYellow
+
+ "Command" = [ConsoleColor]::DarkYellow
+}
+
+oh-my-posh init pwsh | Invoke-Expression
+
+clear

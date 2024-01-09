@@ -22,10 +22,15 @@ Oh My Zsh is a delightful, open-source, community-driven framework for managing 
 - **Install git first**
 
 ```bash
-sudo apt install git
+sudo apt install git #deb
+sudo pacman -S git #arch
 ```
 
-- **Install oh my zsh**: Run the following command in a Ubuntu terminal
+- **Configure your git**
+
+  You are strongly recommended to see [this](https://github.com/TechJI-2023/Basic_Git_wksp/blob/main/Setup_Github.md) if you didn't use git before.
+
+- **Install oh my zsh**: Run the following command in your terminal
 
 ```bash
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"

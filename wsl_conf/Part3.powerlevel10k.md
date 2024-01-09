@@ -32,7 +32,7 @@ Download one of the four fonts on the website
 
 ![fonts](../pic/fonts.jpg)
 
-**then move the file to the directory C:\Windows\Fonts**
+then move the file to the directory C:\Windows\Fonts
 
 then set the new fonts in your ubuntu terminal, which is MesloLGS NF
 
@@ -43,6 +43,7 @@ type
 ```bash
 p10k configure
 ```
+
 ![configure](../pic/configure.jpg)
 
 to set up your own powerlevel10k theme!!!!

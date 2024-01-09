@@ -38,7 +38,6 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
     chsh -s /bin/zsh
     ```
 
-
 - **auto-suggestion**:Run the following code
 
 ```bash
@@ -75,4 +74,3 @@ git clone https://github.com/MichaelAquilina/zsh-you-should-use.git $ZSH_CUSTOM/
 
 - .zshrc
 ![plugins](../pic/plugins.jpg)
-

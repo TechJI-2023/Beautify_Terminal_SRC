@@ -35,4 +35,3 @@ The file organization of this repo is shown as follow
     ├── Part3.powerlevel10k.md
     └── Part4.keyboard_shortcut.md
 ```
-

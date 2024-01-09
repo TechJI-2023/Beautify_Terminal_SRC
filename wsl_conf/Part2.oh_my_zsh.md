@@ -74,4 +74,5 @@ git clone https://github.com/MichaelAquilina/zsh-you-should-use.git $ZSH_CUSTOM/
 ```
 
 - .zshrc
-![plugins](../pictures/plugins.jpg) 
+![plugins](../pic/plugins.jpg)
+

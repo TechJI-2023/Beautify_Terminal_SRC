@@ -3,6 +3,14 @@
 ## Introduction to some pluggins for powershell and zsh
 
 - [zsh](http://zsh.sourceforge.net)
+  - [antidote](https://github.com/mattmc3/antidote)
+
+    Antidote is a feature-complete Zsh implementation of the legacy Antibody plugin manager, which in turn was derived from Antigen. Antidote not only aims to provide continuity for those legacy plugin managers, but also to delight new users with high-performance, easy-to-use Zsh plugin management.
+
+  - [sheldon](https://github.com/rossmacarthur/sheldon)
+
+    Fast, configurable, shell plugin manager. (Maybe hard for beginners)
+
   - [oh my zsh](https://ohmyz.sh)
 
     Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration. It comes bundled with thousands of helpful functions, helpers, plugins, themes, and a few things that make you shout... "Oh My ZSH!"
@@ -10,14 +18,6 @@
   - [antigen](https://github.com/zsh-users/antigen)
 
     Antigen is a small set of functions that help you easily manage your shell (Zsh) plugins, called bundles. The concept is pretty much the same as bundles in a typical vim+pathogen setup. Antigen is to Zsh, what Vundle is to vim.
-
-  - [zplug](https://github.com/zplug/zplug)
-
-    Zplug is a next-generation Zsh plugin manager.
-
-  - [zgen](https://github.com/tarjoilija/zgen)
-
-    Zgen is a lightweight and fast plugin manager for Zsh.
 
   For more zsh plugins you can refer to [this](https://github.com/unixorn/awesome-zsh-plugins)
 

@@ -12,7 +12,7 @@ Then change the ZSH_THEME="powerlevel10k/powerlevel10k" in the .zshrc file
 
 like this:
 
-![theme](../pictures/pw10k.jpg)
+![theme](../pic/pw10k.jpg)
 
 Then type this in the terminal to set up your powerlevel10k **theme**
 
@@ -30,23 +30,23 @@ Note that we haven't download some of the fonts yet, so we may first go to the g
 
 Download one of the four fonts on the website
 
-![fonts](../pictures/fonts.jpg)
+![fonts](../pic/fonts.jpg)
 
 **then move the file to the directory C:\Windows\Fonts**
 
 then set the new fonts in your ubuntu terminal, which is MesloLGS NF
 
-![setting](../pictures/setting.jpg)
+![setting](../pic/setting.jpg)
 
 type
 
 ```bash
 p10k configure
 ```
-![configure](../pictures/configure.jpg)
+![configure](../pic/configure.jpg)
 
 to set up your own powerlevel10k theme!!!!
 
 this is my personal result
 
-![result](../pictures/result.jpg)
+![result](../pic/result.jpg)

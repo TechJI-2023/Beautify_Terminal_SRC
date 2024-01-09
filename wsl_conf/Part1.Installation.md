@@ -17,15 +17,15 @@
 - Open your WSL and run the following command
 
   - For Ubuntu:  
- 
-  ```bash
-  sudo apt install zsh
-  ```
+
+    ```bash
+    sudo apt install zsh
+    ```
 
   - For ArchLinux:  
 
-  ```bash
-  sudo pacman -S zsh
-  ```
+    ```bash
+    sudo pacman -S zsh
+    ```
 
 - If you wanna update your ZSH, just run the code above agian

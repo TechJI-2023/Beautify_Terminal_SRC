@@ -34,7 +34,7 @@
     - offloads rendering to the GPU for lower system load and buttery smooth scrolling
   - Alacritty
     - Easy to use, depend on OpenGL, support Chinese
-    - Rust, safer to deal with memmory
+    - Rust, safer to deal with memory
   - ZOC
     - support various terminal types, like xterm and vt220
     - modern user interface

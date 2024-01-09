@@ -47,4 +47,4 @@
   ./dracula.sh
   ```
 
-Now the color scheme is successfully installed. View the change in your terminal now! (For my color scheme, I use `flat-remix`). For `iTerm2` user, see [misc](./Part 5 - misc.md)
+Now the color scheme is successfully installed. View the change in your terminal now! (For my color scheme, I use `flat-remix`). For `iTerm2` user, see [misc](./Part 5 - misc.md) and change your color theme.

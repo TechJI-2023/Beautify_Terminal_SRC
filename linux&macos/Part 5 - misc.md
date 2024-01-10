@@ -6,6 +6,17 @@ Here are some plugin to make your terminal more beautiful or efficient.
 
 Here I only include settings for `iTerm2`. You can use `cmd+,` to open your preference setting. Click profile and change the background and opacity here.
 
+## Man plage
+
+You can move manclr to your `~` and rename it to `.manclr` and add these lines to your `.zshrc` to colorize your manpage
+
+```bash
+# Color for man page
+source ~/.manclr
+```
+
+![demo_man](../pic/manclr.jpg)
+
 ## Ranger
 
 See [official repo](https://github.com/ranger/ranger)

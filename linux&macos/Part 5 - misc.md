@@ -25,7 +25,7 @@ alias tree='lsd --tree'
 
 See outcome by typing `ls`.
 
-![demo_lsd](../pic/lsd.png)
+![demo_lsd](../pic/lsd.jpg)
 
 ## bat
 
@@ -41,10 +41,10 @@ alias less='bat'
 
 See outcome by typing `bat`.
 
-![demo_bat](../pic/bat.png)
+![demo_bat](../pic/bat.jpg)
 
 ## neofetch
 
 As a convention, after you beautified your terminal, you should post a picture of `neofetch`. You can use your package manager to install it.
 
-![demo_neofetch](../pic/demo.png)
+![demo_neofetch](../pic/demo.jpg)

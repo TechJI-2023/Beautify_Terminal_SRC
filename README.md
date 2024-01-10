@@ -6,7 +6,7 @@ This repo includes a simple introduction about how to beautify your terminal.
 
 Here is a simple demo for configuration.
 
-![demo](./pic/demo.png)
+![demo](./pic/demo.jpg)
 
 ## Organization
 

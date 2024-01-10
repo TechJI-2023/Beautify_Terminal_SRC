@@ -17,4 +17,4 @@ You may need cheatsheet of [nerdfont](https://www.nerdfonts.com/)
 
 Here are my configuration
 
-![demo](../pic/demo.png)
+![demo](../pic/demo.jpg)
